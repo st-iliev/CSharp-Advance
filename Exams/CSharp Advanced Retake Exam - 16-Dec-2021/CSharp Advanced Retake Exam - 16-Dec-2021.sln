@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armory", "Armory\Armory.csproj", "{193B7850-5929-46C3-9218-3787EB92955D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blacksmith", "Blacksmith\Blacksmith.csproj", "{88F147E9-BC2A-4CB4-9B02-A10324E47700}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drones", "Drones\Drones.csproj", "{A09A443F-13AA-4063-8668-9B6620D75997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193B7850-5929-46C3-9218-3787EB92955D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193B7850-5929-46C3-9218-3787EB92955D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193B7850-5929-46C3-9218-3787EB92955D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193B7850-5929-46C3-9218-3787EB92955D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F147E9-BC2A-4CB4-9B02-A10324E47700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F147E9-BC2A-4CB4-9B02-A10324E47700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F147E9-BC2A-4CB4-9B02-A10324E47700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F147E9-BC2A-4CB4-9B02-A10324E47700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09A443F-13AA-4063-8668-9B6620D75997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09A443F-13AA-4063-8668-9B6620D75997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09A443F-13AA-4063-8668-9B6620D75997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09A443F-13AA-4063-8668-9B6620D75997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284A9BD0-2395-4170-90C4-E110968B70B0}
+	EndGlobalSection
+EndGlobal
