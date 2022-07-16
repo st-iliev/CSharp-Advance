@@ -1,5 +1,6 @@
 # [SoftUni CSharp-Advance Course May 2022](https://softuni.bg/trainings/3699/csharp-advanced-may-2022#lesson-39783)
 This repo contains all tasks that were solved by myself during the C# Fundamentals Course at SoftUni. 
+
 Here is a list of all topics that were covered during the course.
 * [Stacks and Queues](https://github.com/st-iliev/CSharp-Advance/tree/main/Stacks%20and%20Queues%20-%20Exercise)
 * [Multidimensional Arrays](https://github.com/st-iliev/CSharp-Advance/tree/main/Multidimensional%20Arrays%20-%20Exercise)
